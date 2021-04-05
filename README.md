@@ -1,0 +1,2 @@
+# minisumo
+Mini-Sumo Competition
